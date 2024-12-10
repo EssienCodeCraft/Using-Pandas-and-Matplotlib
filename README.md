@@ -1,2 +1,4 @@
-# Using-Pandas-and-Matplotlib
-Programming_Languages
+# Using Pandas and Matplotlib
+- Pandas
+- Python
+- Matplotlib
